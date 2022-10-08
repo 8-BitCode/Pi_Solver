@@ -1,1 +1,1 @@
-was bored made small pi solver in a min
+was bored made small pi solver thing for a minute
